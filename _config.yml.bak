@@ -69,4 +69,4 @@ theme: landscape
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:nizhenkeai/blog.git
+  repo: https://github.com/nizhenkeai/nizhenkeai.github.io.git
